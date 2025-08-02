@@ -1,3 +1,5 @@
+<img width="3188" height="1202" alt="image" src="https://github.com/user-attachments/assets/fbff37c3-ded6-4740-b434-b1fd02d48f11" />
+
 🤖 NullBot
 Because answering nothing is sometimes the best answer.
 
